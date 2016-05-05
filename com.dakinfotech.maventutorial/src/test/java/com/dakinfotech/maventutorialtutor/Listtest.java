@@ -62,9 +62,9 @@ public class Listtest {
 		/*CONTAINS*/
 		if(sone.contains("Arun Kumar"))
 		{
-			System.out.println("OOOOOKKKKKKKK");
+			System.out.println("OK");
 		}
-		else System.out.println("NOOOTOOOOKKKKKK");
+		else System.out.println("NOTOK");
 		
 		/*PRINT THE INDEX*/
 		int ind1=sone.indexOf("Arun Kumar");
